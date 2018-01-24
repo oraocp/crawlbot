@@ -1,0 +1,12 @@
+requests
+BeautifulSoap
+lxml
+pymongo
+pyside
+ghost
+selenium
+mechanize
+pillow
+pytesseract
+scrapy
+portia
